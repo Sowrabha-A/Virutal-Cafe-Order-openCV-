@@ -30,10 +30,6 @@ git clone https://github.com/your-username/virtual-cafe-order.git
    - Make sure you have Python installed on your machine.
    - Install the required libraries by running the following command:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 3. Run the application:
 
    - Navigate to the project directory.
